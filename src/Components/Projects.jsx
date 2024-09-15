@@ -1,6 +1,6 @@
 // src/pages/Projects.js
 import React from "react";
-import ProjectCard from "../components/ProjectCard.jsx";  // Ensure correct import path
+import ProjectCard from "../Components/ProjectCard.jsx";  // Ensure correct import path
 import image2 from "../assets/image2.png";
 import image1 from "../assets/image1.png";
 import image3 from "../assets/image3.png";
